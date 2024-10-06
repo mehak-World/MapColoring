@@ -6,6 +6,7 @@ To execute using the terminal, follow the steps given below:
 Unzip the project folder and navigate to the "src" folder. Right click on the src folder and select "open in terminal"
 
 The opened terminal on Windows looks like this:
+
 ![terminal](https://github.com/user-attachments/assets/acf37c83-45a1-428e-a6e8-fa44e660e127)
 
 Then,compile and execute using the follwoing commands:
